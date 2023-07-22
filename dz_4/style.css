@@ -1,0 +1,30 @@
+body
+{
+    background-color: forestgreen;
+}
+.content,
+.content1,
+.content2
+.content3
+{
+    height: 508px;
+    width: 996px;
+}
+.content,
+.content1,
+.content2 
+.content3
+{
+  height: 300px;
+  width: 300px;
+}
+
+
+.content,
+.content1,
+.content2, 
+.content3
+{
+  display: flex;
+  flex-wrap: nowrap;
+}
